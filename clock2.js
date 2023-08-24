@@ -38,4 +38,4 @@ function showTime() {
     ).innerHTML = currentTime;
 }
 
-showTime();
+//showTime();
