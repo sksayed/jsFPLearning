@@ -4,12 +4,16 @@
   "description": "this is a test purpose project to learn and explore the world of js ",
   "main": "clock2.js",
   "scripts": {
-    "open": "node clock2.js"
+    "open": "node lesson3.js"
   },
   "keywords": [
     "clock",
     "js"
   ],
   "author": "sheikh sayed bin rahman",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
 }
