@@ -4,7 +4,7 @@
   "description": "this is a test purpose project to learn and explore the world of js ",
   "main": "clock2.js",
   "scripts": {
-    "open": "node lesson3.js"
+    "open": "node lesson4.js"
   },
   "keywords": [
     "clock",
@@ -13,7 +13,8 @@
   "author": "sheikh sayed bin rahman",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.6"
   },
   "type": "module"
 }
